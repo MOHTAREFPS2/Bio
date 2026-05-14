@@ -1,0 +1,553 @@
+[
+  {
+    "q": "What is the primary purpose of genetic engineering?",
+    "o": [
+      "To observe natural evolutionary changes over time",
+      "To modify an organism's characteristics by altering its genetic structure",
+      "To clone entire organisms without changing their DNA",
+      "To study the physical traits of plants exclusively"
+    ],
+    "a": 1,
+    "e": "Genetic engineering alters the genetic structure of an organism to change its characteristics or phenotype."
+  },
+  {
+    "q": "Which of the following is NOT a method of direct DNA manipulation mentioned in the lecture?",
+    "o": [
+      "Changing a single base pair (e.g., A-T to C-G)",
+      "Deleting a whole region of DNA",
+      "Introducing an additional copy of a gene",
+      "Selectively breeding animals for desired physical traits"
+    ],
+    "a": 3,
+    "e": "Selective breeding is an older agricultural practice, not a direct manipulation of DNA at the molecular level like the other options."
+  },
+  {
+    "q": "Who is credited with making the first recombinant DNA molecule?",
+    "o": [
+      "James Watson",
+      "Kary Mullis",
+      "Paul Berg",
+      "Gregor Mendel"
+    ],
+    "a": 2,
+    "e": "The first recombinant DNA molecule was made by Paul Berg."
+  },
+  {
+    "q": "In what year was the first recombinant DNA molecule created?",
+    "o": [
+      "1953",
+      "1972",
+      "1983",
+      "1990"
+    ],
+    "a": 1,
+    "e": "Paul Berg created the first recombinant DNA molecule in 1972."
+  },
+  {
+    "q": "The first recombinant DNA molecule combined DNA from which two sources?",
+    "o": [
+      "Human insulin gene and E. coli",
+      "Monkey virus SV40 and the lambda virus",
+      "Thermus aquaticus and a bacterial plasmid",
+      "A plant virus and yeast"
+    ],
+    "a": 1,
+    "e": "It was created by combining DNA from the monkey virus SV40 with the lambda virus."
+  },
+  {
+    "q": "What does recombinant DNA technology fundamentally involve?",
+    "o": [
+      "Breeding two different animal species together naturally",
+      "Joining DNA molecules from two different species and inserting them into a host",
+      "Amplifying DNA using successive heat cycles",
+      "Extracting pure proteins from a viral capsule"
+    ],
+    "a": 1,
+    "e": "Recombinant DNA technology is the joining together of DNA molecules from two different species that are inserted into a host organism."
+  },
+  {
+    "q": "Organisms that contain foreign DNA introduced via genetic engineering are known as:",
+    "o": [
+      "Naturally mutated organisms",
+      "Transgenic organisms (GMOs)",
+      "Cloned diploid organisms",
+      "Hybrid somatic organisms"
+    ],
+    "a": 1,
+    "e": "Transgenic organisms, or Genetically Modified Organisms (GMOs), contain foreign DNA."
+  },
+  {
+    "q": "What is the definition of DNA amplification?",
+    "o": [
+      "Sequencing the exact order of DNA base pairs",
+      "Cutting the DNA into smaller, manageable fragments",
+      "Producing large quantities of a specific DNA sequence",
+      "Translating the DNA sequence into functional proteins"
+    ],
+    "a": 2,
+    "e": "DNA amplification is the process of producing large quantities of a specific DNA sequence."
+  },
+  {
+    "q": "DNA amplification that occurs inside a living host organism is called:",
+    "o": [
+      "In vitro amplification",
+      "In vivo amplification",
+      "Polymerase Chain Reaction",
+      "Agarose gel electrophoresis"
+    ],
+    "a": 1,
+    "e": "In vivo amplification uses a living organism (like E. coli) as a host to replicate the DNA."
+  },
+  {
+    "q": "Which of the following is an example of in vitro DNA amplification?",
+    "o": [
+      "Using E. coli to copy a recombinant plasmid",
+      "Gene cloning in bacterial cells",
+      "Polymerase Chain Reaction (PCR)",
+      "Crossing two transgenic agricultural plants"
+    ],
+    "a": 2,
+    "e": "PCR is an in vitro method, meaning it is performed outside of a living organism, typically in a test tube."
+  },
+  {
+    "q": "What is the primary goal of gene cloning?",
+    "o": [
+      "To produce an entire cloned multicellular animal",
+      "To produce identical copies of a specific gene in a living cell",
+      "To sequence the entire genome of a target cell",
+      "To destroy pathogenic bacterial DNA inside a host"
+    ],
+    "a": 1,
+    "e": "Gene cloning is the process of producing identical copies of a gene in a living cell."
+  },
+  {
+    "q": "What is the very first step in the gene cloning process?",
+    "o": [
+      "Transformation of the host cell",
+      "Joining the target DNA to a vector",
+      "Isolation of the target DNA and the vector",
+      "Cutting the DNA with restriction enzymes"
+    ],
+    "a": 2,
+    "e": "Step 1 is to isolate the DNA (both the target gene and the vector/plasmid)."
+  },
+  {
+    "q": "In gene cloning, what acts as the 'molecular scissors' to cut DNA?",
+    "o": [
+      "DNA polymerase",
+      "Restriction Endonucleases",
+      "DNA Ligase",
+      "Helicase"
+    ],
+    "a": 1,
+    "e": "Restriction Endonucleases cut the DNA at specific sites, acting as molecular scissors."
+  },
+  {
+    "q": "Which enzyme is responsible for joining the target DNA and the vector in gene cloning?",
+    "o": [
+      "Restriction Endonuclease",
+      "DNA Ligase",
+      "Taq Polymerase",
+      "RNA Polymerase"
+    ],
+    "a": 1,
+    "e": "DNA Ligase acts as the 'glue' to join the target DNA and the vector together."
+  },
+  {
+    "q": "The newly formed molecule created by joining target DNA with a vector is called:",
+    "o": [
+      "Recombinant DNA (rDNA)",
+      "Transgenic genomic DNA",
+      "Naturally mutated DNA",
+      "Synthetic RNA transcript"
+    ],
+    "a": 0,
+    "e": "Joining target DNA and vector with DNA Ligase forms recombinant DNA (rDNA)."
+  },
+  {
+    "q": "The process of introducing recombinant DNA into a living host cell is called:",
+    "o": [
+      "Transfection",
+      "Transformation",
+      "Translation",
+      "Transcription"
+    ],
+    "a": 1,
+    "e": "Transformation is the step where the host cell takes up the recombinant DNA."
+  },
+  {
+    "q": "Which organism is most commonly used as a host cell for transformation in basic cloning?",
+    "o": [
+      "Saccharomyces cerevisiae",
+      "Thermus aquaticus",
+      "Escherichia coli (E. coli)",
+      "Monkey virus SV40"
+    ],
+    "a": 2,
+    "e": "E. coli is the standard host cell used for transformation in genetic engineering."
+  },
+  {
+    "q": "Why are transformed host cells screened or selected at the end of the cloning process?",
+    "o": [
+      "To kill all the bacteria in the culture",
+      "To identify which cells successfully took up the recombinant DNA",
+      "To extract the newly synthesized proteins from the cells",
+      "To stimulate the cells to reproduce at a faster rate"
+    ],
+    "a": 1,
+    "e": "Screening ensures that only the cells that successfully incorporated the recombinant DNA (and usually an antibiotic resistance gene) are selected."
+  },
+  {
+    "q": "Plasmids are best defined as:",
+    "o": [
+      "Linear chromosomes found in the nucleus of eukaryotic cells",
+      "Small, circular, extrachromosomal DNA molecules found in bacteria",
+      "Enzymes that cut DNA at highly specific recognition sites",
+      "Viral particles that exclusively infect and destroy bacteria"
+    ],
+    "a": 1,
+    "e": "Plasmids are small, circular, extrachromosomal DNA naturally present in bacteria."
+  },
+  {
+    "q": "What is a common selectable marker naturally found on plasmids used in cloning?",
+    "o": [
+      "Insulin producing genes",
+      "Antibiotic resistance genes",
+      "Heat-resistance structural genes",
+      "Viral rapid replication genes"
+    ],
+    "a": 1,
+    "e": "Plasmids usually carry genes for antibiotic resistance, which are used for the screening process."
+  },
+  {
+    "q": "In genetic engineering, what is the primary role of a vector?",
+    "o": [
+      "To cut DNA strands at specific palindromic sequences",
+      "To act as a vehicle carrying foreign DNA into a host cell",
+      "To synthesize new DNA strands by adding nucleotides",
+      "To separate DNA fragments by their molecular size"
+    ],
+    "a": 1,
+    "e": "A vector is a DNA molecule used as a vehicle to artificially carry foreign genetic material into another cell."
+  },
+  {
+    "q": "Who developed the Polymerase Chain Reaction (PCR) technique?",
+    "o": [
+      "Paul Berg",
+      "James Watson",
+      "Kary Mullis",
+      "Frederick Sanger"
+    ],
+    "a": 2,
+    "e": "PCR was developed by Kary Mullis."
+  },
+  {
+    "q": "In what year was the Polymerase Chain Reaction (PCR) developed?",
+    "o": [
+      "1972",
+      "1983",
+      "1995",
+      "2001"
+    ],
+    "a": 1,
+    "e": "Kary Mullis developed the PCR technique in 1983."
+  },
+  {
+    "q": "What is the main function of PCR?",
+    "o": [
+      "To sequence an entire eukaryotic genome rapidly",
+      "To safely clone dangerous bacteria in a lab",
+      "To amplify specific DNA sequences in vitro",
+      "To join two different DNA fragments together seamlessly"
+    ],
+    "a": 2,
+    "e": "PCR is a method widely used to rapidly make millions to billions of copies of a specific DNA sample in vitro."
+  },
+  {
+    "q": "Which of the following is NOT a required component for a standard PCR reaction?",
+    "o": [
+      "DNA template",
+      "Taq polymerase",
+      "DNA Ligase",
+      "Primers"
+    ],
+    "a": 2,
+    "e": "DNA Ligase is used in gene cloning to join DNA, not in PCR. PCR requires a template, Taq polymerase, primers, dNTPs, and a buffer."
+  },
+  {
+    "q": "In a PCR reaction, what provides the specific genetic sequence that is to be copied?",
+    "o": [
+      "The primers",
+      "The Taq polymerase",
+      "The dNTPs",
+      "The DNA template"
+    ],
+    "a": 3,
+    "e": "The DNA template is the sample containing the DNA sequence that you want to amplify."
+  },
+  {
+    "q": "Which enzyme is used to synthesize and build the new DNA strands during PCR?",
+    "o": [
+      "DNA Ligase",
+      "Restriction Endonuclease",
+      "Taq polymerase",
+      "DNA Helicase"
+    ],
+    "a": 2,
+    "e": "Taq polymerase is the enzyme that adds nucleotides to build the new DNA strands."
+  },
+  {
+    "q": "Taq polymerase is originally isolated from which specific organism?",
+    "o": [
+      "Escherichia coli",
+      "Thermus aquaticus",
+      "Monkey virus SV40",
+      "Bacillus subtilis"
+    ],
+    "a": 1,
+    "e": "Taq polymerase is named after the heat-tolerant bacterium Thermus aquaticus."
+  },
+  {
+    "q": "Why is Taq polymerase specifically chosen for PCR instead of standard human DNA polymerase?",
+    "o": [
+      "It works at a much faster rate than any other enzyme",
+      "It is highly heat stable and survives the denaturation step",
+      "It does not require primers to begin synthesis",
+      "It synthesizes RNA instead of DNA for better stability"
+    ],
+    "a": 1,
+    "e": "Taq polymerase is heat-stable, allowing it to survive the high temperatures (94-96°C) of the denaturation stage without being destroyed."
+  },
+  {
+    "q": "What is the specific role of primers in a PCR reaction?",
+    "o": [
+      "To cut the DNA template at specific marker sites",
+      "To provide a starting point for DNA polymerase to begin synthesis",
+      "To physically break the hydrogen bonds between the DNA strands",
+      "To supply the chemical energy required for the reaction"
+    ],
+    "a": 1,
+    "e": "Primers are short strands of DNA that bind to the template and provide a starting point for Taq polymerase."
+  },
+  {
+    "q": "What are dNTPs in the context of a PCR reaction?",
+    "o": [
+      "Enzymes that aggressively cut DNA into short segments",
+      "The building blocks (nucleotides) used to synthesize the new DNA strand",
+      "Chemical buffers that stabilize the pH of the mixture",
+      "Machines used to rapidly heat and cool the DNA samples"
+    ],
+    "a": 1,
+    "e": "dNTPs are the loose nucleotides (A, T, C, G) that Taq polymerase uses to build the new DNA strands."
+  },
+  {
+    "q": "What component provides the optimal chemical environment for Taq polymerase to function properly in PCR?",
+    "o": [
+      "dNTPs",
+      "Primers",
+      "Buffer solution",
+      "DNA template"
+    ],
+    "a": 2,
+    "e": "The buffer solution maintains the correct pH and salt concentration for the enzyme to work optimally."
+  },
+  {
+    "q": "What is the name of the laboratory machine that automates the temperature cycles required for PCR?",
+    "o": [
+      "High-speed Centrifuge",
+      "UV Spectrophotometer",
+      "Thermocycler",
+      "Electrophoresis chamber"
+    ],
+    "a": 2,
+    "e": "A thermocycler automatically changes the temperature of the reaction mixture for each stage of the PCR cycle."
+  },
+  {
+    "q": "What is the first stage of a standard PCR cycle?",
+    "o": [
+      "Annealing",
+      "Extension",
+      "Denaturation",
+      "Ligation"
+    ],
+    "a": 2,
+    "e": "The first step is Denaturation, which separates the DNA strands."
+  },
+  {
+    "q": "At what temperature does the Denaturation stage of PCR typically occur?",
+    "o": [
+      "50 - 65 °C",
+      "72 °C",
+      "94 - 96 °C",
+      "37 °C"
+    ],
+    "a": 2,
+    "e": "Denaturation requires high heat, typically 94-96°C, to separate the strands."
+  },
+  {
+    "q": "What exactly happens during the Denaturation stage of PCR?",
+    "o": [
+      "Short primers firmly attach to the target DNA",
+      "Taq polymerase actively builds a new complementary strand",
+      "The double-stranded DNA completely separates into two single strands",
+      "The original DNA template is degraded and destroyed"
+    ],
+    "a": 2,
+    "e": "The heat causes the double-stranded DNA to separate into two single strands."
+  },
+  {
+    "q": "Which specific chemical bonds are broken during the Denaturation stage of PCR?",
+    "o": [
+      "Strong covalent bonds in the DNA sugar-phosphate backbone",
+      "Peptide bonds between adjacent amino acids",
+      "Hydrogen bonds between the complementary nitrogenous bases",
+      "Ionic bonds between free-floating nucleotides"
+    ],
+    "a": 2,
+    "e": "The high temperature breaks the relatively weak hydrogen bonds between the complementary base pairs."
+  },
+  {
+    "q": "What is the second stage of a standard PCR cycle?",
+    "o": [
+      "Denaturation",
+      "Annealing",
+      "Extension",
+      "Termination"
+    ],
+    "a": 1,
+    "e": "After denaturation, the temperature is lowered for the Annealing stage."
+  },
+  {
+    "q": "At what temperature does the Annealing stage of PCR typically occur?",
+    "o": [
+      "37 °C",
+      "50 - 65 °C",
+      "72 °C",
+      "94 - 96 °C"
+    ],
+    "a": 1,
+    "e": "Annealing occurs at a lower temperature, usually 50-65°C, to allow primers to bind."
+  },
+  {
+    "q": "What occurs during the Annealing stage of PCR?",
+    "o": [
+      "DNA strands fully separate from each other",
+      "Taq polymerase finishes extending the new DNA strand",
+      "Primers bind to their complementary sequences on the single-stranded DNA template",
+      "Free dNTPs are rapidly destroyed by the changing temperature"
+    ],
+    "a": 2,
+    "e": "During annealing, the primers attach to their specific matching sequences on the single-stranded DNA."
+  },
+  {
+    "q": "What is the third stage of a standard PCR cycle?",
+    "o": [
+      "Denaturation",
+      "Annealing",
+      "Extension / Elongation",
+      "Ligation"
+    ],
+    "a": 2,
+    "e": "The third and final step of the cycle is Extension (or Elongation)."
+  },
+  {
+    "q": "At what temperature does the Extension stage of PCR occur?",
+    "o": [
+      "50 - 65 °C",
+      "72 °C",
+      "94 - 96 °C",
+      "100 °C"
+    ],
+    "a": 1,
+    "e": "The extension stage is raised to 72°C."
+  },
+  {
+    "q": "Why is 72°C specifically chosen for the Extension stage of PCR?",
+    "o": [
+      "It is the exact temperature at which DNA instantly melts",
+      "It is the optimal temperature for Taq polymerase activity to synthesize DNA",
+      "It is the temperature at which DNA primers bind most tightly",
+      "It guarantees the death of any contaminating bacteria in the sample"
+    ],
+    "a": 1,
+    "e": "72°C is the optimal operating temperature for the Taq polymerase enzyme."
+  },
+  {
+    "q": "How many times are the stages of a standard PCR cycle typically repeated?",
+    "o": [
+      "1 to 5 times",
+      "10 to 15 times",
+      "25 to 35 times",
+      "100 to 200 times"
+    ],
+    "a": 2,
+    "e": "The cycle is typically repeated 25 to 35 times to ensure sufficient amplification."
+  },
+  {
+    "q": "According to the lecture, repeating the PCR cycle 30 times converts a single double-stranded molecule into approximately how many copies?",
+    "o": [
+      "Over 1,000",
+      "Over 1 million",
+      "Over 130 million",
+      "Exactly 60"
+    ],
+    "a": 2,
+    "e": "The lecture notes state that 30 cycles convert the initial molecule into over 130 million new double-stranded molecules."
+  },
+  {
+    "q": "Which laboratory technique is commonly used to examine and visualize the products of a PCR reaction?",
+    "o": [
+      "Electron microscopy",
+      "Agarose gel electrophoresis",
+      "Mass spectroscopy",
+      "High-speed centrifugation"
+    ],
+    "a": 1,
+    "e": "Agarose gel electrophoresis is used to separate and visualize the amplified PCR products based on their size."
+  },
+  {
+    "q": "Which of the following represents a medical application of genetic engineering?",
+    "o": [
+      "Developing pesticide-resistant agricultural crops",
+      "Producing human insulin and growth hormones using modified bacteria",
+      "Using specialized bacteria to clean up environmental oil spills",
+      "Tracking the global migrations of endangered animal species"
+    ],
+    "a": 1,
+    "e": "Producing therapeutic proteins like human insulin is a major medical application of genetic engineering."
+  },
+  {
+    "q": "How is genetic engineering applied in the field of forensic investigations?",
+    "o": [
+      "By creating genetically modified crops to trace soil origins",
+      "By mass-producing viral vaccines for public safety",
+      "By identifying suspects based on crime scene samples and performing paternity tests",
+      "By studying the loss of gene function in research animals"
+    ],
+    "a": 2,
+    "e": "Forensic applications include suspect identification from crime scene DNA and establishing biological relationships like paternity."
+  },
+  {
+    "q": "How can microorganisms be genetically engineered for environmental cleanup purposes?",
+    "o": [
+      "By inducing them to produce synthetic human hormones",
+      "By using their DNA as definitive forensic evidence in court",
+      "By enhancing their ability to break down organic wastes and cycle materials",
+      "By modifying them to improve the yield of cereal crops"
+    ],
+    "a": 2,
+    "e": "Microorganisms can be engineered to efficiently break down organic wastes, toxic chemicals, and help cycle materials in the environment."
+  },
+  {
+    "q": "In basic biological research, genetically modified organisms are most often used to:",
+    "o": [
+      "Study specific gene function and expression through loss or gain of function experiments",
+      "Produce commercially viable dairy and meat products",
+      "Increase the production and refinement of fossil fuels",
+      "Directly identify criminal suspects without laboratory testing"
+    ],
+    "a": 0,
+    "e": "Researchers use GMOs to observe what happens when a gene's function is altered, lost, or gained, which helps in understanding basic genetic processes."
+  }
+]
+
