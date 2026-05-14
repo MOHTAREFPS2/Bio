@@ -1,0 +1,553 @@
+[
+  {
+    "q": "What is the definition of a mutation according to the laboratory text?",
+    "o": [
+      "A normal variation in cell growth",
+      "A change in the DNA at a particular locus in an organism",
+      "The physical exchange of chromosome segments during meiosis",
+      "A reversible alteration in RNA translation"
+    ],
+    "a": 1,
+    "e": "A mutation is defined as a change in the DNA at a particular Locus in an organism, including point mutations and chromosomal changes."
+  },
+  {
+    "q": "Mutations that occur in gametes are classified as:",
+    "o": [
+      "Somatic mutations",
+      "Autosomal mutations",
+      "Germ line mutations",
+      "X-Linked mutations"
+    ],
+    "a": 2,
+    "e": "Germ line mutations are mutations occurring in gametes."
+  },
+  {
+    "q": "Somatic mutations are defined as mutations occurring in:",
+    "o": [
+      "Any cell in the body except germ cells",
+      "Sperm and egg cells only",
+      "Only the X and Y chromosomes",
+      "Only the autosomal chromosomes"
+    ],
+    "a": 0,
+    "e": "Somatic mutations are mutations occurring in any cell in the body except germ cells."
+  },
+  {
+    "q": "Autosomal mutations occur within genes located on:",
+    "o": [
+      "The X-chromosome",
+      "The Y-chromosome",
+      "Autosomes (chromosomes 1-22)",
+      "Mitochondrial DNA"
+    ],
+    "a": 2,
+    "e": "Autosomal mutations are mutations within genes located on autosomes (chromosomes 1-22)."
+  },
+  {
+    "q": "Mutations within genes located on the X-chromosome are called:",
+    "o": [
+      "Autosomal mutations",
+      "Somatic mutations",
+      "Y-Linked mutations",
+      "X-Linked mutations"
+    ],
+    "a": 3,
+    "e": "X-Linked mutations are mutations within genes located on the X-chromosome."
+  },
+  {
+    "q": "Which of the following best describes a Point Mutation?",
+    "o": [
+      "A change involving the entire chromosome set",
+      "The addition, deletion, inversion, or substitution of a few bases",
+      "The loss of a large chromosome segment",
+      "The failure of homologous chromosomes to separate"
+    ],
+    "a": 1,
+    "e": "Point Mutation involves the addition, deletion, inversion, or substitution of a few bases within genes."
+  },
+  {
+    "q": "A Transition mutation at the DNA level occurs when:",
+    "o": [
+      "A purine is replaced by a pyrimidine",
+      "A pyrimidine is replaced by a purine",
+      "A purine is replaced by a different purine",
+      "A base is entirely deleted from the sequence"
+    ],
+    "a": 2,
+    "e": "Transition: Purine replaced by different Purine, or Pyrimidine replaced by different Pyrimidine."
+  },
+  {
+    "q": "Which of the following substitutions is an example of a Transition?",
+    "o": [
+      "AT replaced by CG",
+      "GC replaced by CG",
+      "AT replaced by GC",
+      "TA replaced by GC"
+    ],
+    "a": 2,
+    "e": "Transition examples include AT -> GC and GC -> AT."
+  },
+  {
+    "q": "A Transversion mutation occurs when:",
+    "o": [
+      "A purine is replaced by a different purine",
+      "A purine is replaced by a pyrimidine",
+      "A pyrimidine is replaced by a different pyrimidine",
+      "An extra base is inserted"
+    ],
+    "a": 1,
+    "e": "Transversion: Purine replaced by Pyrimidine, or Pyrimidine replaced by a Purine."
+  },
+  {
+    "q": "Which of the following is an example of a Transversion?",
+    "o": [
+      "AT replaced by GC",
+      "GC replaced by AT",
+      "GC replaced by CG",
+      "Both A and B"
+    ],
+    "a": 2,
+    "e": "Transversion examples include AT -> CG and GC -> CG."
+  },
+  {
+    "q": "If a Pyrimidine is replaced by a different Pyrimidine, the mutation is termed:",
+    "o": [
+      "Transversion",
+      "Transition",
+      "Frameshift",
+      "Inversion"
+    ],
+    "a": 1,
+    "e": "Transition: Pyrimidine replaced by different Pyrimidine."
+  },
+  {
+    "q": "If a Pyrimidine is replaced by a Purine, the mutation is termed:",
+    "o": [
+      "Transition",
+      "Transversion",
+      "Deletion",
+      "Duplication"
+    ],
+    "a": 1,
+    "e": "Transversion: Pyrimidine replaced by a Purine."
+  },
+  {
+    "q": "A Frame shift mutation involves:",
+    "o": [
+      "Substituting one base for another without changing the reading frame",
+      "Inserting or deleting one or more base pairs that alters the reading frame",
+      "Reversing the sequence of a chromosome segment",
+      "A change in the ploidy level of the cell"
+    ],
+    "a": 1,
+    "e": "Frame shift mutations involve inserting or deleting one or more base pairs, which alters the reading frame."
+  },
+  {
+    "q": "The addition of one or more extra nucleotides into the DNA is called:",
+    "o": [
+      "Deletion",
+      "Substitution",
+      "Insertion",
+      "Inversion"
+    ],
+    "a": 2,
+    "e": "Insertion: addition of one or more extra nucleotides into the DNA."
+  },
+  {
+    "q": "The removal of one or more nucleotides from the DNA is called:",
+    "o": [
+      "Insertion",
+      "Deletion",
+      "Translocation",
+      "Transition"
+    ],
+    "a": 1,
+    "e": "Deletion: removal of one or more nucleotides from the DNA."
+  },
+  {
+    "q": "Chromosomal mutations are classified into which two main categories?",
+    "o": [
+      "Point and Frameshift",
+      "Somatic and Germ line",
+      "Numerical and Structural",
+      "Transitions and Transversions"
+    ],
+    "a": 2,
+    "e": "Chromosomal mutations are classified into Numerical mutations and Structural mutations."
+  },
+  {
+    "q": "Numerical chromosomal mutations involve a change in the:",
+    "o": [
+      "Sequence of genes on a chromosome",
+      "Structure of the chromosome",
+      "Number of chromosomes",
+      "Location of the centromere"
+    ],
+    "a": 2,
+    "e": "Numerical mutations: change in number of chromosomes."
+  },
+  {
+    "q": "Euploidy is defined as a condition where the chromosome number is:",
+    "o": [
+      "An exact multiple of the haploid chromosome number (n)",
+      "Not a multiple of the haploid number",
+      "Missing exactly one chromosome",
+      "Having exactly one extra chromosome"
+    ],
+    "a": 0,
+    "e": "Euploidy is an exact multiple of the haploid chromosome number (n)."
+  },
+  {
+    "q": "Aneuploidy is defined as a condition where the chromosome number is:",
+    "o": [
+      "An exact multiple of the haploid chromosome number (n)",
+      "Abnormal and not a multiple of the haploid number (n)",
+      "Exactly double the haploid number",
+      "Exactly triple the haploid number"
+    ],
+    "a": 1,
+    "e": "Aneuploidy: abnormal number of chromosomes, not a multiple of n."
+  },
+  {
+    "q": "The loss of both pairs of homologous chromosomes is denoted by the formula:",
+    "o": [
+      "2n - 1",
+      "2n + 1",
+      "2n - 2",
+      "2n + 2"
+    ],
+    "a": 2,
+    "e": "Nullisomy: loss of both pairs of homologous chromosomes (2n - 2)."
+  },
+  {
+    "q": "Nullisomy represents the:",
+    "o": [
+      "Gain of a single chromosome",
+      "Loss of a single chromosome",
+      "Loss of both pairs of homologous chromosomes",
+      "Gain of an extra pair of homologous chromosomes"
+    ],
+    "a": 2,
+    "e": "Nullisomy: loss of both pairs of homologous chromosomes."
+  },
+  {
+    "q": "Monosomy is characterized by the:",
+    "o": [
+      "Loss of both pairs of homologous chromosomes",
+      "Loss of a single chromosome",
+      "Gain of a single chromosome",
+      "Gain of an extra pair of homologous chromosomes"
+    ],
+    "a": 1,
+    "e": "Monosomy: loss of a single chromosome (2n - 1)."
+  },
+  {
+    "q": "Trisomy is represented by which formula?",
+    "o": [
+      "2n - 1",
+      "2n - 2",
+      "2n + 1",
+      "2n + 2"
+    ],
+    "a": 2,
+    "e": "Trisomy: gain of a single chromosome (2n + 1)."
+  },
+  {
+    "q": "Tetrasomy is characterized by the:",
+    "o": [
+      "Gain of a single chromosome",
+      "Loss of a single chromosome",
+      "Gain of an extra pair of homologous chromosomes",
+      "Loss of both pairs of homologous chromosomes"
+    ],
+    "a": 2,
+    "e": "Tetrasomy: gain of an extra pair of homologous chromosomes (2n + 2)."
+  },
+  {
+    "q": "Down Syndrome is an example of an autosomal aneuploid characterized by:",
+    "o": [
+      "Trisomy - 13",
+      "Trisomy - 18",
+      "Trisomy - 21",
+      "Monosomy X"
+    ],
+    "a": 2,
+    "e": "Down Syndrome is Trisomy - 21."
+  },
+  {
+    "q": "Patau Syndrome is caused by which chromosomal abnormality?",
+    "o": [
+      "Trisomy - 13",
+      "Trisomy - 18",
+      "Trisomy - 21",
+      "Tetrasomy - 13"
+    ],
+    "a": 0,
+    "e": "Patau Syndrome is Trisomy - 13."
+  },
+  {
+    "q": "Edwards Syndrome is also known as:",
+    "o": [
+      "Trisomy - 13",
+      "Trisomy - 18",
+      "Trisomy - 21",
+      "Monosomy - 18"
+    ],
+    "a": 1,
+    "e": "Edwards Syndrome is Trisomy - 18."
+  },
+  {
+    "q": "Klinefelter Syndrome is an example of a:",
+    "o": [
+      "Structural mutation",
+      "Sex chromosome aneuploid",
+      "Autosomal aneuploid",
+      "Point mutation"
+    ],
+    "a": 1,
+    "e": "Klinefelter Syndrome (47, XXY) is an example of Sex chromosome Aneuploids."
+  },
+  {
+    "q": "The chromosomal makeup of a patient with Klinefelter Syndrome is typically:",
+    "o": [
+      "45, XO",
+      "47, XXX",
+      "47, XXY",
+      "47, XYY"
+    ],
+    "a": 2,
+    "e": "Klinefelter Syndrome is characterized by a 47, XXY karyotype."
+  },
+  {
+    "q": "Turner Syndrome is an example of a:",
+    "o": [
+      "Trisomy",
+      "Tetrasomy",
+      "Monosomy",
+      "Nullisomy"
+    ],
+    "a": 2,
+    "e": "Turner Syndrome (45, XO) lacks one sex chromosome, making it a monosomy."
+  },
+  {
+    "q": "The chromosomal makeup of a patient with Turner Syndrome is typically:",
+    "o": [
+      "45, XO",
+      "47, XXY",
+      "47, +21",
+      "45, YO"
+    ],
+    "a": 0,
+    "e": "Turner Syndrome is characterized by a 45, XO karyotype."
+  },
+  {
+    "q": "Which of the following is NOT a type of structural chromosomal mutation?",
+    "o": [
+      "Deletion",
+      "Duplication",
+      "Translocation",
+      "Aneuploidy"
+    ],
+    "a": 3,
+    "e": "Aneuploidy is a numerical mutation. Structural mutations include Deletion, Duplication, Inversion, and Translocation."
+  },
+  {
+    "q": "A structural mutation involving the loss of a chromosome segment is called a:",
+    "o": [
+      "Duplication",
+      "Translocation",
+      "Deletion",
+      "Inversion"
+    ],
+    "a": 2,
+    "e": "Deletion: the loss of a chromosome segment."
+  },
+  {
+    "q": "When a chromosome segment is present more than once in the same chromosome, it is called:",
+    "o": [
+      "Duplication",
+      "Deletion",
+      "Inversion",
+      "Transversion"
+    ],
+    "a": 0,
+    "e": "Duplication: the presence of a chromosome segment more than once in the same chromosome."
+  },
+  {
+    "q": "A structural mutation where a chromosome segment is reversed end to end is called an:",
+    "o": [
+      "Insertion",
+      "Inversion",
+      "Translocation",
+      "Transition"
+    ],
+    "a": 1,
+    "e": "Inversion: a chromosome segment is reversed end to end."
+  },
+  {
+    "q": "The movement of a chromosome segment to a nonhomologous chromosome is known as:",
+    "o": [
+      "Translocation",
+      "Inversion",
+      "Duplication",
+      "Deletion"
+    ],
+    "a": 0,
+    "e": "Translocation: the movement of a chromosome segment to a nonhomologous chromosome."
+  },
+  {
+    "q": "Cancer is a genetic disease that arises primarily from mutations controlling:",
+    "o": [
+      "Only the physical appearance of cells",
+      "Cellular energy production only",
+      "Many aspects of cellular function",
+      "Meiosis exclusively"
+    ],
+    "a": 2,
+    "e": "Cancer arises from mutations in genes controlling many aspects of cellular function."
+  },
+  {
+    "q": "One of the fundamental properties shared by all cancer cells is:",
+    "o": [
+      "Decreased cellular metabolism",
+      "Abnormal cell growth and division",
+      "Inability to survive outside the primary organ",
+      "Perfect differentiation"
+    ],
+    "a": 1,
+    "e": "A fundamental property of cancer cells is abnormal cell growth and division (cell proliferation)."
+  },
+  {
+    "q": "The propensity of cancer cells to spread and invade other parts of the body is called:",
+    "o": [
+      "Proliferation",
+      "Apoptosis",
+      "Metastasis",
+      "Angiogenesis"
+    ],
+    "a": 2,
+    "e": "Metastasis is the propensity to spread and invade other parts of the body."
+  },
+  {
+    "q": "Cell proliferation in the context of cancer refers to:",
+    "o": [
+      "The death of normal cells",
+      "Abnormal cell growth and division",
+      "The spread of cells to distant organs",
+      "The repair of damaged DNA"
+    ],
+    "a": 1,
+    "e": "Cell proliferation refers to abnormal cell growth and division."
+  },
+  {
+    "q": "A key difference between cancer and other genetic diseases is that cancer is predominantly caused by mutations in:",
+    "o": [
+      "Germ cells",
+      "Somatic cells",
+      "Mitochondrial DNA",
+      "Red blood cells"
+    ],
+    "a": 1,
+    "e": "Cancer is caused by mutations that occur predominantly in somatic cells."
+  },
+  {
+    "q": "Because cancer mutations occur predominantly in somatic cells, they are usually:",
+    "o": [
+      "Passed on to all offspring",
+      "Not inherited by offspring",
+      "Only found in germ line cells",
+      "Lethal before birth"
+    ],
+    "a": 1,
+    "e": "Since cancer mutations are predominantly somatic, they are not inherited by the next generation."
+  },
+  {
+    "q": "A condition involving a gain of two extra homologous chromosomes is best described as:",
+    "o": [
+      "Trisomy",
+      "Tetrasomy",
+      "Monosomy",
+      "Nullisomy"
+    ],
+    "a": 1,
+    "e": "Tetrasomy (2n+2) involves the gain of an extra pair of homologous chromosomes."
+  },
+  {
+    "q": "Which of the following describes an Aneuploidy?",
+    "o": [
+      "2n, 3n, 4n",
+      "2n-1, 2n+1",
+      "An exact multiple of n",
+      "None of the above"
+    ],
+    "a": 1,
+    "e": "Aneuploidy is an abnormal number of chromosomes, not a multiple of n, such as 2n-1 or 2n+1."
+  },
+  {
+    "q": "A mutation that affects only a single base pair, such as substituting A for T, is categorized generally as a:",
+    "o": [
+      "Chromosomal deletion",
+      "Point mutation",
+      "Translocation",
+      "Euploidy"
+    ],
+    "a": 1,
+    "e": "Point Mutation involves the substitution of a few bases within genes."
+  },
+  {
+    "q": "If a chromosomal mutation involves moving a segment from Chromosome 4 to Chromosome 20, it is called a:",
+    "o": [
+      "Duplication",
+      "Deletion",
+      "Translocation",
+      "Inversion"
+    ],
+    "a": 2,
+    "e": "Translocation is the movement of a chromosome segment to a nonhomologous chromosome."
+  },
+  {
+    "q": "Which syndrome corresponds to a Trisomy 21 karyotype?",
+    "o": [
+      "Edwards Syndrome",
+      "Down Syndrome",
+      "Patau Syndrome",
+      "Turner Syndrome"
+    ],
+    "a": 1,
+    "e": "Down Syndrome corresponds to Trisomy 21."
+  },
+  {
+    "q": "If a male patient has a 47, XXY karyotype, he is diagnosed with:",
+    "o": [
+      "Klinefelter Syndrome",
+      "Turner Syndrome",
+      "Patau Syndrome",
+      "Down Syndrome"
+    ],
+    "a": 0,
+    "e": "Klinefelter Syndrome is characterized by a 47, XXY karyotype."
+  },
+  {
+    "q": "A female patient presenting with a 45, XO karyotype has:",
+    "o": [
+      "Klinefelter Syndrome",
+      "Down Syndrome",
+      "Turner Syndrome",
+      "Edwards Syndrome"
+    ],
+    "a": 2,
+    "e": "Turner Syndrome is characterized by a 45, XO karyotype."
+  },
+  {
+    "q": "Which of the following is considered an Autosomal Aneuploid?",
+    "o": [
+      "Turner Syndrome",
+      "Klinefelter Syndrome",
+      "Edwards Syndrome",
+      "None of the above"
+    ],
+    "a": 2,
+    "e": "Edwards Syndrome (Trisomy 18) is an autosomal aneuploid, while Turner and Klinefelter involve sex chromosomes."
+  }
+]
+
